@@ -7,7 +7,7 @@ on:
 # Permissions required to run this workflow (create issue and commit/push changes)
 permissions:
   contents: write
-  pull-requests: none 
+  pull-requests: write
   issues: write
   packages: none
 
